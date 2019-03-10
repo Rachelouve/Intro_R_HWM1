@@ -2,7 +2,10 @@
 title: "Homework 1"
 author: "Jetnisa Krasniqi, Mehdi Hirari, Rachel-Louve Cerutti"
 date: "March 10, 2019"
-output: html_document
+output: 
+   html_document: 
+     theme: cerulean 
+     highlight: tango
 ---
 ##Introduction
 This is our first R markdown document.  ....notre structure sera ..?....(video ou texte)
