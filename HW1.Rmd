@@ -1,9 +1,10 @@
 ---
 title: "Homework 1"
-authors: "Jetnisa Krasniqi, Mehdi Hirari, Rachel-Louve"
+author: "Jetnisa Krasniqi, Mehdi Hirari, Rachel-Louve Cerutti"
 date: "March 10, 2019"
 output: html_document
 ---
 
-#Introduction
-This is our first R markdown document. strucutrue ? 
+###Introduction
+This is our first R markdown document. 
+Let's take a look ! 
