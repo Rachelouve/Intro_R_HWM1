@@ -4,7 +4,29 @@ author: "Jetnisa Krasniqi, Mehdi Hirari, Rachel-Louve Cerutti"
 date: "March 10, 2019"
 output: html_document
 ---
-
-###Introduction
-This is our first R markdown document. 
+##Introduction
+This is our first R markdown document.  ....notre structure sera ..?....(video ou texte)
 Let's take a look ! 
+
+
+
+##Group Members 
+####Jetnisa
+.
+.
+.
+.
+
+####Mehdi
+.
+.
+.
+.
+
+####Rachel
+.
+.
+.
+.
+
+
