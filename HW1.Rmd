@@ -20,6 +20,8 @@ Let's take a look !
  
 ![Voyage de Chihiro aka Spirited away](https://upload.wikimedia.org/wikipedia/en/d/db/Spirited_Away_Japanese_poster.png)
 
+>The creation of a single world comes from a large number of fragments and chaos. ***Hayato Miyazaki***
+
 **Emojis**
 
 ```{r echo=FALSE}
@@ -35,6 +37,31 @@ emo::ji('heart')
 
 <img src="https://media.giphy.com/media/Hws7aKoFHS9gs/giphy.gif" width="200" height="200" />
 
+
+**My classes this semester**
+
++----------------+---------------+
+| Courses        | Hours         |         
++================+===============+
+| Web based data |               |
+| collection     |  2:00         | 
+|                |               |
++----------------+---------------+
+| Microeconomics2|  4:00         |
+|                |               | 
++----------------+---------------+
+| Sécurité des   |  2:00         |
+| systèmes d'info|               |
+|                |               | 
++----------------+---------------+
+| Création       |               |
+| d'entreprise   |  2:00         |
+|                |               | 
++----------------+---------------+
+| Préjugés à     |               |
+| l'université   |  2:00         |
+|                |               | 
++----------------+---------------+
 
 
 
