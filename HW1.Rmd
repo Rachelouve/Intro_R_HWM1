@@ -16,7 +16,7 @@ Let's take a look !
 ##Group Members
 ####Jetnisa
 
-```{r}
+```{r echo=FALSE}
 emo::ji('smile')
 emo::ji('diamond')
 emo::ji('heart')
@@ -34,7 +34,11 @@ emo::ji('heart')
 .
 .
 .
-
+####Neila
+.
+.
+.
+.
 ##R Markdown Section 
 
 ##References
