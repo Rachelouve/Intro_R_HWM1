@@ -13,12 +13,15 @@ Let's take a look !
 
 
 
-##Group Members 
+##Group Members
 ####Jetnisa
-.
-.
-.
-.
+
+```{r}
+emo::ji('smile')
+emo::ji('diamond')
+emo::ji('heart')
+```
+
 
 ####Mehdi
 .
