@@ -15,14 +15,24 @@ Let's take a look !
 
 ##Group Members
 ####Jetnisa
+
+**Emojis**
+
 ```{r echo=FALSE}
 emo::ji('smile')
 emo::ji('diamond')
 emo::ji('heart')
 ```
-![Chihiro](https://media.giphy.com/media/iBR0mutbdfQ4/giphy.gif)
+**Big GIF**
+
+![ Voyage de Chihiro](https://media.giphy.com/media/iBR0mutbdfQ4/giphy.gif)
+
+**small GIF**
 
 <img src="https://media.giphy.com/media/Hws7aKoFHS9gs/giphy.gif" width="200" height="200" />
+
+
+
 
 ####Mehdi
 .
