@@ -14,7 +14,7 @@ Let's take a look !
 
 
 ##Group Members
-####Jetnisa
+###Jetnisa
  
 **Voyage de Chihiro Poster**
  
@@ -69,19 +69,19 @@ This table contains all the classes I am following this semester and the hours o
 
 
 
-####Mehdi
+###Mehdi
 .
 .
 .
 .
 
-####Rachel
+###Rachel
 .
 .
 .
 .
 
-####Neila
+###Neila
 .
 .
 .
