@@ -20,7 +20,9 @@ Let's take a look !
  
 ![Voyage de Chihiro aka Spirited away](https://upload.wikimedia.org/wikipedia/en/d/db/Spirited_Away_Japanese_poster.png)
 
->The creation of a single world comes from a large number of fragments and chaos. ***Hayato Miyazaki***
+**Quote of Miyazaki**
+
+>The creation of a single world comes from a huge number of fragments and chaos.- *Hayato Miyazaki*
 
 **Emojis**
 
@@ -39,6 +41,8 @@ emo::ji('heart')
 
 
 **My classes this semester**
+
+This table contains all the classes I am following this semester and the hours of each class.
 
 +----------------+---------------+
 | Courses        | Hours         |         
