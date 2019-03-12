@@ -13,9 +13,11 @@ This is our first R markdown document. In this section we will do a quick introd
 
 Let's take a look ! 
 
-<iframe width='560' height='315' src='https://www.youtube.com/watch?v=zhp0qui73cc' frameborder='0' allowfullscreen></iframe>
+<iframe width="917" height="516" src="https://www.youtube.com/embed/Mh5LY4Mz15o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This is an introductory video aout Japan. A presentaion of common things in japan followed by a backgrund music. Of course there is much more to see in Jpan but there is always a starting point !
+
+
+This is an introductory video aout Japan. A presentaion of common things in japan followed by a background explication. Of course there is much more to see in Jpan but there is always a starting point !
 
 ##Group Members
 ###Jetnisa
@@ -75,10 +77,13 @@ This table contains all the classes I am following this semester and the hours o
 ###Mehdi
 
 **Sherlock Holmes caption**
+
 ![Sherlock Holmes](https://images-na.ssl-images-amazon.com/images/I/A1kYWlaMrXL._SL1500_.jpg)
 
-**Arthur Conan Doyle > Quotes**
->When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth.
+**Arthur Conan Doyle quotes :**
+
+>When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth
+
 
 **Emojis**
 
