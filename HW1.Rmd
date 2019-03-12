@@ -11,8 +11,6 @@ output:
 This is our first R markdown document.  ....notre structure sera ..?....(video ou texte)
 Let's take a look ! 
 
-
-
 ##Group Members
 ###Jetnisa
  
