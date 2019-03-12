@@ -2,10 +2,11 @@
 title: "Homework 1"
 author: "Jetnisa Krasniqi, Mehdi Hirari, Rachel Louve Cerutti"
 date: "March 10, 2019"
-output: 
-   html_document: 
-     theme: cerulean 
-     highlight: tango
+output:
+  pdf_document: default
+  html_document:
+    highlight: tango
+    theme: cerulean
 ---
 ##Introduction
 
