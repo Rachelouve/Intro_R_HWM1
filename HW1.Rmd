@@ -13,13 +13,10 @@ This is our first R markdown document. In this section we will do a quick introd
 
 Let's take a look ! 
 
-<<<<<<< HEAD
-![About Japan in 6 minutes](https://www.youtube.com/watch?v=zhp0qui73cc)
+<iframe width='560' height='315' src='https://www.youtube.com/watch?v=zhp0qui73cc' frameborder='0' allowfullscreen></iframe>
 
 This is an introductory video aout Japan. A presentaion of common things in japan followed by a backgrund music. Of course there is much more to see in Jpan but there is always a starting point !
 
-=======
->>>>>>> 2ccb98e9d3f050c95eb33e19e8282c8e7dbb1466
 ##Group Members
 ###Jetnisa
  
