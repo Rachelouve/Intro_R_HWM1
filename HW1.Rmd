@@ -1,6 +1,6 @@
 ---
 title: "Homework 1"
-author: "Jetnisa Krasniqi, Mehdi Hirari, Rachel-Louve Cerutti"
+author: "Jetnisa Krasniqi, Mehdi Hirari, Rachel Louve Cerutti"
 date: "March 10, 2019"
 output: 
    html_document: 
