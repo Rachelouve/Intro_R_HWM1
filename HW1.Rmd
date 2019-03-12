@@ -1,6 +1,6 @@
 ---
 title: "Homework 1"
-author: "Jetnisa Krasniqi, Mehdi Hirari, Rachel-Louve Cerutti"
+author: "Jetnisa Krasniqi, Mehdi Hirari, Rachel Louve Cerutti"
 date: "March 10, 2019"
 output: 
    html_document: 
@@ -68,10 +68,44 @@ This table contains all the classes I am following this semester and the hours o
 
 
 ###Mehdi
-.
-.
-.
-.
+
+**Sherlock Holmes caption**
+![Sherlock Holmes](https://images-na.ssl-images-amazon.com/images/I/A1kYWlaMrXL._SL1500_.jpg)
+
+**Arthur Conan Doyle > Quotes**
+> Quote: “When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth.”
+
+**Emojis**
+
+```{r echo=FALSE}
+emo::ji("(non-human color)")
+emo::ji("aesculapius")
+emo::ji("aeroplane") 
+```
+**Will give at random an emoji**
+
+**Large giphy**
+
+![In front of statistical language](https://media.giphy.com/media/H1TeyK3LtqUGk/giphy.gif)
+
+**Small giphy**
+
+<img src='https://media.giphy.com/media/bPCwGUF2sKjyE/giphy.gif' width='200' height='200' />
+
+**Table**
++---------------+---------------+
+| Class         | Hours         |
++===============+===============+
+| Web data      | 2H            |
++---------------+---------------+
+| Terrorisme    | 4H            |
++---------------+---------------+
+| Econ histoire | 4H            |
++---------------+---------------+
+| Dev economics | 4H            |
++---------------+---------------+
+| Sys inf sec   | 2H            |
++---------------+---------------+
 
 ###Rachel
 .
