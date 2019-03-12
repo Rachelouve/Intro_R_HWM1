@@ -13,10 +13,13 @@ This is our first R markdown document. In this section we will do a quick introd
 
 Let's take a look ! 
 
+<<<<<<< HEAD
 ![About Japan in 6 minutes](https://www.youtube.com/watch?v=zhp0qui73cc)
 
 This is an introductory video aout Japan. A presentaion of common things in japan followed by a backgrund music. Of course there is much more to see in Jpan but there is always a starting point !
 
+=======
+>>>>>>> 2ccb98e9d3f050c95eb33e19e8282c8e7dbb1466
 ##Group Members
 ###Jetnisa
  
@@ -99,6 +102,7 @@ emo::ji("aeroplane")
 <img src='https://media.giphy.com/media/bPCwGUF2sKjyE/giphy.gif' width='200' height='200' />
 
 **Table**
+
 +---------------+---------------+
 | Class         | Hours         |
 +===============+===============+
