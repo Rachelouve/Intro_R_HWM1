@@ -93,6 +93,7 @@ emo::ji("aeroplane")
 <img src='https://media.giphy.com/media/bPCwGUF2sKjyE/giphy.gif' width='200' height='200' />
 
 **Table**
+
 +---------------+---------------+
 | Class         | Hours         |
 +===============+===============+
