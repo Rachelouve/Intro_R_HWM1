@@ -8,10 +8,14 @@ output:
      highlight: tango
 ---
 ##Introduction
-This is our first R markdown document.  ....notre structure sera ..?....(video ou texte)
+
+This is our first R markdown document. In this section we will do a quick introduction about Japanese culture followed by a video and a text to explain what we think bout it. As you will see in the third section their will be a presentaion of what each person likes the most for example with Jetnisa it will be japanese culture and for Mehdi will be Arthur Conan Doyle and so on so forth. We will finish the assignement with R syntax and references that we used for our work.
+
 Let's take a look ! 
 
+![About Japan in 6 minutes](https://www.youtube.com/watch?v=zhp0qui73cc)
 
+This is an introductory video aout Japan. A presentaion of common things in japan followed by a backgrund music. Of course there is much more to see in Jpan but there is always a starting point !
 
 ##Group Members
 ###Jetnisa
@@ -75,7 +79,7 @@ This table contains all the classes I am following this semester and the hours o
 ![Sherlock Holmes](https://images-na.ssl-images-amazon.com/images/I/A1kYWlaMrXL._SL1500_.jpg)
 
 **Arthur Conan Doyle > Quotes**
-> Quote: “When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth.”
+>When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth.
 
 **Emojis**
 
@@ -122,5 +126,7 @@ emo::ji("aeroplane")
 .
 
 ##R Markdown Syntax 
+
+
 
 ##References
