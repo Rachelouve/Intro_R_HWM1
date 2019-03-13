@@ -49,7 +49,7 @@ emo::ji('heart')
 
 **My classes this semester**
 
-This table contains all the classes I am following this semester and the hours of each class.
+# This table contains all the classes I am following this semester and the hours of each class.
 
 +----------------+---------------+
 | Courses        | Hours         |         
@@ -93,7 +93,7 @@ emo::ji("(non-human color)")
 emo::ji("aesculapius")
 emo::ji("aeroplane") 
 ```
-**Will give at random an emoji**
+# Will give at random an emoji + To use chunk code: Cmd + Option + I
 
 **Large giphy**
 
@@ -133,6 +133,19 @@ emo::ji("aeroplane")
 
 ##R Markdown Syntax 
 
+# Misleading answers by using the cache option#
 
+```{r The_value, cache=TRUE}
+(a <- runif(1))
+```
+# we putted a being equal to some random uniform number
+```{r, cache=TRUE}
+(d <- 2*a)
+```
+# It should give the right answer 
+```{r, cache=TRUE, dependson="The_value"}
+(d <- 2*a)
+```
+# However when you change again the value of a, since by the cache function R stores the old value of a. To fix this problem we need to add another comment on the chunk code which is dependson. This will tell the program to take the value of a an not the saved one. Cahce can be very useful to save computaional time.
 
 ##References
