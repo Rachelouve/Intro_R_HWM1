@@ -131,9 +131,9 @@ emo::ji("aeroplane")
 .
 .
 
-##R Markdown Syntax 
+###R Markdown Syntax 
 
-# Misleading answers by using the cache option#
+# Misleading answers by using the cache option #
 
 ```{r The_value, cache=TRUE}
 (a <- runif(1))
@@ -148,4 +148,31 @@ emo::ji("aeroplane")
 ```
 # However when you change again the value of a, since by the cache function R stores the old value of a. To fix this problem we need to add another comment on the chunk code which is dependson. This will tell the program to take the value of a an not the saved one. Cahce can be very useful to save computaional time.
 
-##References
+# Random sample #
+
+```{r calculate_mean_var_median, cache = TRUE}
+n = 100
+x = rnorm(n) # Generates 100 random numbers and stored in a vector
+(median(x))
+(mean(x))
+(var(x))
+```
+# It is normal to get values different from waht expected as n is not bug enough. As n grows we will get values close to the predicted ones.As e can see by changing the n = 100000 below
+
+```{r calculate_mean, cache = TRUE}
+n = 100000
+x = rnorm(n) # Generates 100000 random numbers and stored in a vector
+(median(x))
+(mean(x))
+(var(x))
+```
+
+# Histogram #
+
+```{r hist, cache = TRUE}
+b = 100
+x = rnorm(b) # Generates 100 random numbers and stored in a vector
+hist(x)
+```
+
+###References
