@@ -120,8 +120,9 @@ emo::ji("aeroplane")
 +---------------+---------------+
 
 ###Rachel
-.
-.
+.Test 1 
+.r emo::ji('cold_sweat')
+
 .
 .
 
