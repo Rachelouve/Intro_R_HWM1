@@ -242,4 +242,6 @@ $$E[var\{v_1(\hat \theta,n|\hat \theta)\}] = var\{v1(\theta_0,n\} + E[\vartheta_
 
 # In line equation #
 
+$$ A \equiv [a_{ij}]_{i,j=1,...,p} $$
+
 ###References
