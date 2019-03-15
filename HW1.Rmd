@@ -149,10 +149,48 @@ emo::ji("cold")
 .
 
 ###Neila
-.
-.
-.
-.
+
+** Detective Conan **
+
+![Detective Conan](http://www.criminalelement.com/wp-content/uploads/2011/06/Wong_Detective-Conan.jpg)
+
+**Quote of Shinichi**
+
+>Everyone is the main character of their own life.- *Shinichi Kudo*
+
+**Emojis**
+
+```{r echo=FALSE}
+emo::ji("male_detective")
+emo::ji("nerd_face")
+emo::ji("grin") 
+```
+
+**Big GIF**
+
+![Detective Conan](http://25.media.tumblr.com/3c1eef2da0b8c3848b0c7c19179f760e/tumblr_mugf1jJwE01sbdoyho1_400.gif)
+
+**Small GIF**
+
+<img src="http://31.media.tumblr.com/36a1f3e69bdbfb611f5068a7538abfd7/tumblr_mxgsmgvS8m1r894bko1_500.gif" width="200" height="200" />
+
+**Table**
+
++---------------+---------------+
+| Class         | Hours         |
++===============+===============+
+| Web data      | 2H            |
++---------------+---------------+
+| MicroI        | 4H            |
++---------------+---------------+
+| Micro II      | 4H            |
++---------------+---------------+
+| macro I       | 4H            |
++---------------+---------------+
+| Gestion       | 4H            |
++---------------+---------------+
+| Banque privée | 4H            |
++-------------------------------+
 
 ###R Markdown Syntax 
 
