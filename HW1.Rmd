@@ -141,7 +141,7 @@ The most popular serie of the world, *Game of Thrones* will return on April 14, 
 *How do you fell about it ?*
 ```{r echo=FALSE}
 emo::ji("smile")
-emo::ji("confuded")
+emo::ji("confused")
 emo::ji("cold")
 ```
 
