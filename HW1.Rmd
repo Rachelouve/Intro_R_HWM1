@@ -120,7 +120,7 @@ emo::ji("aeroplane")
 +---------------+---------------+
 
 ###Rachel
-.<iframe width='560' height='315' src='https://www.youtube.com/watch?v=rlR4PJn8b8I' frameborder='0' allowfullscreen></iframe>
+<iframe width="917" height="516" src="https://www.youtube.com/watch?v=rlR4PJn8b8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .
 .
