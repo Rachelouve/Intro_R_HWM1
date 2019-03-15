@@ -1,6 +1,6 @@
 ---
 title: "Homework 1"
-author: "Jetnisa Krasniqi, Mehdi Hirari, Rachel Louve Cerutti"
+author: "Jetnisa Krasniqi, Mehdi Hirari, Rachel Louve Cerutti, Naïla Hamdi"
 date: "March 10, 2019"
 output:
   html_document:
@@ -10,7 +10,7 @@ output:
 ---
 ##Introduction
 
-This is our first R markdown document. In this section we will do a quick introduction about Japanese culture followed by a video and a text to explain what we think bout it. As you will see in the third section their will be a presentaion of what each person likes the most for example with Jetnisa it will be japanese culture and for Mehdi will be Arthur Conan Doyle and so on so forth. We will finish the assignement with R syntax and references that we used for our work.
+This is our first R markdown document. In this section we will do a quick introduction about Japanese culture followed by a video and a text to explain what we think about it. As you will see in the third section their will be a presentaion of what each person likes the most for example with Jetnisa it will be japanese culture and for Mehdi will be Arthur Conan Doyle and so on so forth. We will finish the assignement with R syntax and references that we used for our work.
 
 Let's take a look ! 
 
@@ -18,7 +18,7 @@ Let's take a look !
 
 
 
-This is an introductory video aout Japan. A presentaion of common things in japan followed by a background explication. Of course there is much more to see in Jpan but there is always a starting point !
+This is an introductory video aout Japan. A presentation of common things in japan followed by a background explication. Of course there is much more to see in Jpan but there is always a starting point !
 
 ##Group Members
 ###Jetnisa
