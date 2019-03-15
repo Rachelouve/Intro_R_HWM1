@@ -244,4 +244,15 @@ $$E[var\{v_1(\hat \theta,n|\hat \theta)\}] = var\{v1(\theta_0,n\} + E[\vartheta_
 
 $$ A \equiv [a_{ij}]_{i,j=1,...,p} $$
 
+#Text of Montesquieu*
+
+<span style="color:blue">“Vérité dans un temps, erreur dans un autre.”, Charles de Montesquieu </span>
+
+#For More information
+
+<button class = "markdown-button" type="introbutton">MORE INFO</button>
+
+# Color box 
+
+
 ###References
