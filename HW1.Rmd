@@ -3,10 +3,10 @@ title: "Homework 1"
 author: "Jetnisa Krasniqi, Mehdi Hirari, Rachel Louve Cerutti"
 date: "March 10, 2019"
 output:
-  pdf_document: default
   html_document:
     highlight: tango
     theme: cerulean
+  pdf_document: default
 ---
 ##Introduction
 
@@ -120,8 +120,7 @@ emo::ji("aeroplane")
 +---------------+---------------+
 
 ###Rachel
-.Test 1 
-.r emo::ji('cold_sweat')
+.<iframe width='560' height='315' src='https://www.youtube.com/watch?v=rlR4PJn8b8I' frameborder='0' allowfullscreen></iframe>
 
 .
 .
