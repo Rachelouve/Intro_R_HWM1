@@ -134,11 +134,13 @@ The most popular serie of the world, *Game of Thrones* will return on April 14, 
 ![When I know that GOT comes back in less than 1 month](https://media.giphy.com/media/JlVb5LVZ4y5Uc/giphy.gif)
 
 ... But is finishing in 2 months... 
+
+
 <img src= 'https://media.giphy.com/media/aYcRuDTSNp0Kk/giphy.gif' width='200' height='200' />
 
 *How do you fell about it ?*
 ```{r echo=FALSE}
-emo::ji('happy')
+emo::ji("smile")
 emo::ji('sad')
 emo::ji('cold')
 ```
