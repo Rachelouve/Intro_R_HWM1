@@ -270,3 +270,5 @@ https://en.wikipedia.org/wiki/Japan
 
 ###References
 
+# Reference about statistcal inference :) 
+@casella2002statistical
