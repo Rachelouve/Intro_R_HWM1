@@ -261,6 +261,6 @@ https://en.wikipedia.org/wiki/Japan
 ###Color box 
 
 <div class="alert alert-success">
-<strong>Coucou les haricots:</strong> bonjour alpha
+<strong>An important event :</strong> Japan expo https://www.japan-expo-paris.com/fr/
 
 ###References
