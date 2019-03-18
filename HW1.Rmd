@@ -203,16 +203,17 @@ emo::ji("grin")
 
 ####*Misleading answers by using the cache option*
 
+
 ```{r The_value, cache=TRUE}
-(a <- runif(1))
+(a <- 5)
 ```
 ####*we putted a being equal to some random uniform number*
 ```{r, cache=TRUE}
-(d <- 2*a)
+(d <- 0.5*log(2*pi*exp(1)*a^(2)))
 ```
 ####*It should give the right answer*
 ```{r, cache=TRUE, dependson="The_value"}
-(d <- 2*a)
+(d <- 0.5*log(2*pi*exp(1)*a^(2)))
 ```
 ####*However when you change again the value of a, since by the cache function R stores the old value of a. To fix this problem we need to add another comment on the chunk code which is dependson. This will tell the program to take the value of a an not the saved one. Cahce can be very useful to save computaional time.*
 
@@ -270,5 +271,5 @@ https://en.wikipedia.org/wiki/Japan
 
 ###References
 
-# Reference about statistcal inference :) 
+###### *References about statistcal inference :)*
 @casella2002statistical
