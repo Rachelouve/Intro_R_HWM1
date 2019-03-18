@@ -2,11 +2,11 @@
 title: "Homework 1"
 author: "Jetnisa Krasniqi, Mehdi Hirari, Rachel Louve Cerutti, Naïla Hamdi"
 date: "March 10, 2019"
+bibliography: Reference.bib
 output:
   html_document:
     highlight: tango
     theme: cerulean
-  pdf_document: default
 ---
 ##Introduction
 
@@ -29,9 +29,11 @@ The theme of my part will be on japanese culture especially on one of my favorit
  
 ![Voyage de Chihiro aka Spirited away](https://upload.wikimedia.org/wikipedia/en/d/db/Spirited_Away_Japanese_poster.png)
 
-**Quote of Miyazaki**
+**Quote of Clavell**
 
->The creation of a single world comes from a huge number of fragments and chaos.- *Hayato Miyazaki*
+>people to be in complete accord with their ruler.- *Clavell, 1983*
+
+@sui2005strategic
 
 **Emojis**
 
@@ -87,6 +89,7 @@ This table contains all the classes I am following this semester and the hours o
 
 >When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth
 
+@hill1965environment
 
 **Emojis**
 
@@ -156,9 +159,11 @@ emo::ji("cold")
 
 ![Detective Conan](http://www.criminalelement.com/wp-content/uploads/2011/06/Wong_Detective-Conan.jpg)
 
-**Quote of Shinichi**
+**Voltaire**
 
->Everyone is the main character of their own life.- *Shinichi Kudo*
+>The best is the enemy of the good.- *Voltaire* #related with detective' philosphphy
+
+@luke2002perfect
 
 **Emojis**
 
@@ -264,3 +269,4 @@ https://en.wikipedia.org/wiki/Japan
 <strong>An important event :</strong> Japan expo https://www.japan-expo-paris.com/fr/
 
 ###References
+
