@@ -256,23 +256,23 @@ emo::ji("grin")
 
 ##R Markdown Syntax 
 
-#####*Misleading answers by using the cache option*
+**Misleading answers by using the cache option**
 
 
 ```{r The_value, cache=TRUE}
 (a <- 5)
 ```
-#####*we putted a being equal to some random uniform number*
+**we putted a being equal to some random uniform number**
 ```{r, cache=TRUE}
 (d <- 0.5*log(2*pi*exp(1)*a^(2)))
 ```
-#####*It should give the right answer*
+**It should give the right answer**
 ```{r, cache=TRUE, dependson="The_value"}
 (d <- 0.5*log(2*pi*exp(1)*a^(2)))
 ```
-#####*However when you change again the value of a there will be a mislaeanding answer since by the cache function R stores the old value of a. To fix this problem we need to add another comment on the chunk code which is dependson. This will tell the program to take the value of a and not the saved one. Cahce can be very useful to save computaional time.*
+**However when you change again the value of a there will be a mislaeanding answer since by the cache function R stores the old value of a. To fix this problem we need to add another comment on the chunk code which is dependson. This will tell the program to take the value of a and not the saved one. Cache can be very useful to save computational time.**
 
-#####*Random sample*
+**Random sample**
 
 ```{r calculate_mean_var_median, cache = TRUE}
 n = 100
@@ -281,7 +281,7 @@ x = rnorm(n) # Generates 100 random numbers and stored in a vector
 (mean(x))
 (var(x))
 ```
-#####*It is normal to get values different from what expected as n is not big enough. As n grows we will get values close to the predicted ones.As we can see by changing the n = 100000 below*
+**It is normal to get values different from what expected as n is not big enough. As n grows we will get values close to the predicted ones. As we can see by changing the n = 100000 below**
 
 ```{r calculate_mean, cache = TRUE}
 n = 100000
@@ -291,7 +291,7 @@ x = rnorm(n) # Generates 100000 random numbers and stored in a vector
 (var(x))
 ```
 
-#####*Histogram*
+**Histogram**
 
 ```{r hist, cache = TRUE}
 b = 100
@@ -299,16 +299,16 @@ x = rnorm(b) # Generates 100 random numbers and stored in a vector
 hist(x)
 ```
 
-#####*Mathematical equation*
+**Mathematical equation**
 
 $$E[var\{v_1(\hat \theta,n|\hat \theta)\}] = var\{v1(\theta_0,n\} + E[\vartheta_p\{D_1(\theta^*,n)(\hat \theta-\theta_0),...,D_p(\theta^*,n)(\theta-\theta_0)\}] = var\{v1(\theta_0,n)\} + \vartheta(n^{-2})$$
 
-#####*In line equation*
+**In line equation**
 
 $$ A \equiv [a_{ij}]_{i,j=1,...,p} $$
 
 
-#####*Text of Montesquieu*
+***Text of Montesquieu***
 
 <span style="color:blue">“Vérité dans un temps, erreur dans un autre.”, Charles de Montesquieu </span>
 
