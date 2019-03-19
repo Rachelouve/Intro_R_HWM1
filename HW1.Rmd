@@ -215,7 +215,7 @@ emo::ji("grin")
 ```{r, cache=TRUE, dependson="The_value"}
 (d <- 0.5*log(2*pi*exp(1)*a^(2)))
 ```
-#####*However when you change again the value of a, since by the cache function R stores the old value of a. To fix this problem we need to add another comment on the chunk code which is dependson. This will tell the program to take the value of a an not the saved one. Cahce can be very useful to save computaional time.*
+#####*However when you change again the value of a there will be a mislaeanding answer since by the cache function R stores the old value of a. To fix this problem we need to add another comment on the chunk code which is dependson. This will tell the program to take the value of a and not the saved one. Cahce can be very useful to save computaional time.*
 
 #####*Random sample*
 
@@ -226,7 +226,7 @@ x = rnorm(n) # Generates 100 random numbers and stored in a vector
 (mean(x))
 (var(x))
 ```
-#####*It is normal to get values different from waht expected as n is not big enough. As n grows we will get values close to the predicted ones.As we can see by changing the n = 100000 below*
+#####*It is normal to get values different from what expected as n is not big enough. As n grows we will get values close to the predicted ones.As we can see by changing the n = 100000 below*
 
 ```{r calculate_mean, cache = TRUE}
 n = 100000
