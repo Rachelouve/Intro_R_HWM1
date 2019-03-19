@@ -316,17 +316,16 @@ $$ A \equiv [a_{ij}]_{i,j=1,...,p} $$
 
 
 ####For More information
-<button data-toggle="collapse" data-target="#demo" class="" aria-expanded="true">
-More info
-</button>
-<div id="demo" class="collapse in" aria-expanded="true" style="">
+<button data-toggle="collapse" data-target="#demo">More info </button>
+<div id="demo" class="collapse">
 https://en.wikipedia.org/wiki/Japan
-
+</div>
 
 ####Color box
 
 <div class="alert alert-success">
 <strong>An important event :</strong> Japan expo https://www.japan-expo-paris.com/fr/
+</div>
 
 ##References
 
