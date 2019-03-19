@@ -35,16 +35,19 @@ The theme of my part will be on japanese culture, especially on one of my favori
 
 @sui2005strategic
 
-**Emojis**
+**My emotions during the movie ...**
 
 ```{r echo=FALSE}
 emo::ji('smile')
-emo::ji('diamond')
+emo::ji('cry')
 emo::ji('heart')
 ```
 **Big GIF**
 
-![ Voyage de Chihiro](https://media.giphy.com/media/iBR0mutbdfQ4/giphy.gif)
+It's a scene from the beginning of the movie before Chihiro's parents misteriously disappeared. After that, she will do everything in her power to find them ...
+
+![ When Chihiro and her parents discovered this misterious village ... ](https://media.giphy.com/media/iBR0mutbdfQ4/giphy.gif)
+
 
 **small GIF**
 
@@ -128,6 +131,9 @@ Will give at random an emoji + To use chunk code: Cmd + Option + I
 
 ##*Game of Thrones*##
 
+![Game of Thrones Season 8 ](http://www.objectiffestival.fr/blog/wp-content/uploads/2018/11/ba709951a64d0229b8d002883414d22d.jpg)
+
+
 <iframe width="806" height="453" src="https://www.youtube.com/embed/rlR4PJn8b8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The most popular serie of the world, *Game of Thrones* will return on April 14, 2019
@@ -150,7 +156,7 @@ emo::ji("confused")
 emo::ji("cold")
 ```
 
-**Table**
+Here are my courses of this semester : 
 
 +----------------+---------------+
 | Courses        | Hours         |         
@@ -185,6 +191,22 @@ emo::ji("cold")
 +----------------+---------------+
 
 
+I also work beside my studies : 
+
++---------------+---------------+--------------------+
+| Work          | Job           | Hours              |
++===============+===============+====================+
+| McDonald's    | Versatile     | 17H00              |
+|               |  Employee     |                    |
++---------------+---------------+--------------------+
+| Rugdbytots    | Coach         | 2H00               |
+|               |               |                    |
++---------------+---------------+--------------------+
+| Ara           | Repeater      | 1H00               |
+|               |               |                    |
++---------------+---------------+--------------------+
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/langfr-280px-McDonald%27s_Golden_Arches.svg.png)
 
 ###Neila
 
@@ -291,7 +313,7 @@ $$ A \equiv [a_{ij}]_{i,j=1,...,p} $$
 <span style="color:blue">“Vérité dans un temps, erreur dans un autre.”, Charles de Montesquieu </span>
 
 
-#####*For More information*
+####For More information
 <button data-toggle="collapse" data-target="#demo" class="" aria-expanded="true">
 More info
 </button>
@@ -299,7 +321,7 @@ More info
 https://en.wikipedia.org/wiki/Japan
 
 
-#####*Color box*
+####Color box
 
 <div class="alert alert-success">
 <strong>An important event :</strong> Japan expo https://www.japan-expo-paris.com/fr/
