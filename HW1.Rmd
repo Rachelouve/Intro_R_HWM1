@@ -303,7 +303,7 @@ hist(x)
 
 **Mathematical equation**
 
-$$E[var\{v_1(\hat \theta,n|\hat \theta)\}] = var\{v1(\theta_0,n\} + E[\vartheta_p\{D_1(\theta^*,n)(\hat \theta-\theta_0),...,D_p(\theta^*,n)(\theta-\theta_0)\}] = var\{v1(\theta_0,n)\} + \vartheta(n^{-2})$$
+$$E[var\{v_1(\hat \theta,n|\hat \theta)\}] = var\{v_1(\theta_0,n\} + E[\vartheta_p\{D_1(\theta^*,n)(\hat \theta-\theta_0),...,D_p(\theta^*,n)(\theta-\theta_0)\}] = var\{v_1(\theta_0,n)\} + \vartheta(n^{-2})$$
 
 **In line equation**
 
